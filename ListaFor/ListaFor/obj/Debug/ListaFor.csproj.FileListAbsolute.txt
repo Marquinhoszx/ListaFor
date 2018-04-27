@@ -1,0 +1,6 @@
+C:\Users\i3i\Documents\GitHub\lista-vetor\ExemploFor\ListaFor\ListaFor\bin\Debug\ListaFor.exe.config
+C:\Users\i3i\Documents\GitHub\lista-vetor\ExemploFor\ListaFor\ListaFor\bin\Debug\ListaFor.exe
+C:\Users\i3i\Documents\GitHub\lista-vetor\ExemploFor\ListaFor\ListaFor\bin\Debug\ListaFor.pdb
+C:\Users\i3i\Documents\GitHub\lista-vetor\ExemploFor\ListaFor\ListaFor\obj\Debug\ListaFor.csprojResolveAssemblyReference.cache
+C:\Users\i3i\Documents\GitHub\lista-vetor\ExemploFor\ListaFor\ListaFor\obj\Debug\ListaFor.exe
+C:\Users\i3i\Documents\GitHub\lista-vetor\ExemploFor\ListaFor\ListaFor\obj\Debug\ListaFor.pdb

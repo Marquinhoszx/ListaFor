@@ -13,10 +13,15 @@ namespace ListaFor
             //new Exercicio01();                //refazer
             //new Exercicio02();                //refazer
             //new Exercicio03();                //refazer
-            //new Exercicio04();                //terminar em casa
+            //new Exercicio04();                //refazer
             //new Exercicio05();                //refazer
-            //new Exercicio06();                  // terminar em casa
-            new Exercicio07();
+            //new Exercicio06();                //refazer
+            //new Exercicio07();                //refazer
+            //new Exercicio08();                //refazer
+            //new Exercicio09();                //refazer
+            new Exercicio10();                //terminar em casa
+            //new Exercicio011();               //refazer
+
         }
     }
 }
